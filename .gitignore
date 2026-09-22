@@ -1,0 +1,22 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Debug/build folders
+*.exe.stackdump
+/bin/
+/build/
+/Debug/
+/Release/
+
+# VS Code specific
+.vscode/
+
+# OS-generated files
+Thumbs.db
+desktop.ini
